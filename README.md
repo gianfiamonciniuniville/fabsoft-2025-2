@@ -6,27 +6,14 @@
 
 #### Sistema de Blogs, com comentários e moderadores
 
-##### 1. Frontend
+## Links Of Repos
 
-###### Interface para exibir posts, criar/editar conteúdo, comentar, e moderação.
+#### Back-end: https://github.com/gianfiamonciniuniville/UniBlogBackEnd
 
-##### 2. Backend
-
-###### APIs para gerenciar dados, autenticação e controle de permissões.
-
-##### 3. Banco de Dados
-
-###### Estrutura para armazenar usuários, posts, categorias, tags e comentários.
-
-##### 4. Autenticação e Autorização
-
-###### Sistema de login e controle de acesso baseado em papéis (usuário, moderador, admin).
-
-##### 5. Moderação
-
-###### Ferramentas para aprovar, rejeitar ou excluir comentários e gerenciar conteúdo.
+#### Front-end:
 
 ## Tecnologias
 
-#### Backend em C#, banco de dados SQL SERVER, Frontend em REACT
-
+- Backend em C# .NET Arquitetura Onion Entity Framework,
+- Banco de Dados SQL SERVER via docker,
+- Frontend em REACT TS (Framework a decidir)
