@@ -1,3 +1,6 @@
 [submodule "UniBlogBackEnd"]
 	path = UniBlogBackEnd
 	url = https://github.com/gianfiamonciniuniville/UniBlogBackEnd
+[submodule "uniblog-front"]
+	path = uniblog-front
+	url = https://github.com/gianfiamonciniuniville/uniblog-front
